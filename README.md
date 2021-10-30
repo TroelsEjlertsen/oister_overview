@@ -13,3 +13,4 @@ How to:
 
 
 notes: the first code run may take a while, as the pdfs have to be converters to data tables.
+![Animation](https://user-images.githubusercontent.com/92248191/139542500-910896fc-13ab-48a7-8a28-cb7c47af96f7.gif)
