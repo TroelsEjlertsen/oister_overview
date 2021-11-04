@@ -1,0 +1,6 @@
+pandas
+tabula
+camelot
+numpy
+os
+glob
