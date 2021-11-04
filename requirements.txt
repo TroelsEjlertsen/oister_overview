@@ -1,2 +1,7 @@
 tabula-py
 camelot-py
+pandas
+os
+glob
+streamlit
+numpy
