@@ -1,6 +1,2 @@
-pandas
-tabula
-camelot
-numpy
-os
-glob
+tabula-py
+camelot-py
